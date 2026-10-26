@@ -5,6 +5,8 @@ tmp/
 data/
 runs/
 outputs/
+delivery/观看验收_*/
+delivery/开发交接_*/
 third_party/
 *.pth
 *.onnx
